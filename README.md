@@ -13,8 +13,8 @@ Your task is to implement 2 strategies / averaging modes of the sample recorder:
 There are a few rules and guidelines regarding the solution:
 
 - Please implement the solution in java.
-- You may extend the project with any dependencies needed you need to complete the task in an optimal way.
+- You may extend the project with any dependencies you need to complete the task in an optimal way.
 - Test the code well in terms of cases and best practices.
-- You may choose any test framework/language you like apart from the defaults in the project if you like.
+- You may choose any test framework/language you like apart from the defaults in the project.
 - Find the attached project stub in this git repository to begin your work (mvn stub, recorder interface).
 - Provide the solution as a pull-request to this repository
