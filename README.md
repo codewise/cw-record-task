@@ -10,7 +10,7 @@ Your task is to implement 2 strategies / averaging modes of the sample recorder:
 - returning average of last n samples collected by the recorded
 - returning average of samples collected in last n seconds
 
-There are a few rules guidelines regarding the solution:
+There are a few rules and guidelines regarding the solution:
 
 - Please implement the solution in java.
 - You may extend the project with any dependencies needed you need to complete the task in an optimal way.
